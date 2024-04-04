@@ -1,0 +1,30 @@
+<resources>
+        <string name="app_name">My Application Two</string>
+        <string name="sign_up_here">Sign Up Here</string>
+        <string name="fill_data">Fill The Data Correctly</string>
+        <string name="name">Name</string>
+        <string name="enter_name">Enter Name</string>
+        <string name="email_id">Email-Id</string>
+        <string name="enter_email_id">Enter Email_Id</string>
+        <string name="password">Password</string>
+        <string name="enter_your_password">Enter Your Password</string>
+        <string name="write_about_yourself">Write Something About Yourself</string>
+        <string name="type_something">Type something about Youself</string>
+        <string name="gender">Gender</string>
+        <string name="female">Female</string>
+        <string name="male">Male</string>
+        <string name="interested_field">Interested Course</string>
+        <string name="cpp">C++</string>
+        <string name="java">Java</string>
+        <string name="kotlin">Kotlin</string>
+        <string name="android">Android</string>
+        <string name="submit">Submit</string>
+        <string name="clear">Clear</string>
+        <string name="login_here">Login Here</string>
+        <string name="email">Email</string>
+        <string name="enter_email">Email Email</string>
+        <string name="enter_password">Enter Password</string>
+        <string name="create_new_account">Create New Account</string>
+        <string name="title_activity_login">Title Activity Login</string>
+    </resources>
+
